@@ -1,0 +1,19 @@
+/* p {
+    color: blue;
+    font-size: 20px;
+} */
+.content {
+    color: red;
+    border: 10px double black;
+    border-radius: 5px;
+    text-align: center;
+    background-image: url("../Week 2/m.jpg");
+}
+.content h1 {
+    border: 2px solid rgb(0, 255, 157);
+}
+.content p {
+    font-size: 70px;
+    color: blue;
+    font-weight: 900;
+}    
